@@ -1,0 +1,56 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/User/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar;C:/Users/User/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/User/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar;C:/Users/User/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/User/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar'
+-encoding
+'Cp1251'
+-protected
+-sourcepath
+'D:/AstonLearbProjeckts/WebWether/WebWether/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/AstonLearbProjeckts/WebWether/WebWether/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WebWether Maven Webapp 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'D:/AstonLearbProjeckts/WebWether/WebWether/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'WebWether Maven Webapp 1.0-SNAPSHOT API'
+com.example
+C:\Users\User\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar = 1678820790163
+C:\Users\User\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar = 1676423339866
+C:\Users\User\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar = 1685949751079
+C:\Users\User\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1676423339681
+C:\Users\User\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar = 1676423339714
+D:\AstonLearbProjeckts\WebWether\WebWether\src\main\java = 1731880536996
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\allclasses-index.html = 1731892881414
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\allclasses.html = 1731892881421
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\allpackages-index.html = 1731892881416
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\constant-values.html = 1731892881370
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\deprecated-list.html = 1731892881419
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\element-list = 1731892881356
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\help-doc.html = 1731892881424
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\index-all.html = 1731892881411
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\index.html = 1731892881422
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\jquery-ui.overrides.css = 1731892881468
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\member-search-index.js = 1731892881409
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\member-search-index.zip = 1731892881410
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\overview-tree.html = 1731892881400
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\package-search-index.js = 1731892881406
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\package-search-index.zip = 1731892881408
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\script.js = 1731892881426
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\search.js = 1731892881447
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\serialized-form.html = 1731892881375
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\stylesheet.css = 1731892881425
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\type-search-index.js = 1731892881408
+D:\AstonLearbProjeckts\WebWether\WebWether\target\reports\apidocs\type-search-index.zip = 1731892881409
